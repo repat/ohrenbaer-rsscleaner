@@ -1,3 +1,6 @@
 == RSS Cleaner
 
 RSS Cleaner is a sinatra micro app created when I had a couple of RSS feeds from my hometown newspaper were not working correctly in feedly. I discovered that all I really needed to do was load them into ruby's RSS parser, and then spit them out again. That got rid of whatever problems were causing feedly to choke on them.
+
+==== update
+[Ohrenbär](http://ohrenbaer.de) also has a malformatted RSS feed, so I just this to clean it for my podcatcher.
